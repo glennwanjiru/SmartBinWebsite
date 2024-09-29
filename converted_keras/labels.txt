@@ -1,0 +1,4 @@
+0 General waste
+1 Infectious waste
+2 Pathological waste
+3 Sharp waste
